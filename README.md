@@ -1,4 +1,4 @@
-# aprendendoCrud
+# Aprendendo Crud no PHP
 Primeiro projeto usando crud em  PHP/ Laravel
 
 Este projeto é uma versao basica porem funcional do meu aprendizado em php utilizando o framework laravel, 
